@@ -74,7 +74,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sample Laravel Application
+                    Polk Hub
                 </div>
                 
                 @section('content')
